@@ -1,8 +1,8 @@
-<b><h1>Notes app<h1></b>
+<b><h1>Notes app</h1></b>
   <br>
 This application records notes for a given instance.<br>
 Made to improvde understanding of TDD.<br>
-Driver: Daniel Morris<br>
+<b>Driver: Daniel Morris</b><br>
 Navigators: Mark James, Paul Sheilds 
 <h2>readme</h2>
 
