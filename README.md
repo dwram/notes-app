@@ -1,11 +1,12 @@
-#Notes app
+<b><h1>Notes app<h1></b>
+  <br>
 This application records notes for a given instance.<br>
-Made to further TDD understanding.<br>
+Made to improvde understanding of TDD.<br>
 Driver: Daniel Morris<br>
 Navigators: Mark James, Paul Sheilds 
-##readme
+<h2>readme</h2>
 
-####commands
+<h3>commands</h3>
 NoteList.new | "title" and "body" params required to instantiate class object<br>
 
 .create_note / .add_note | "title" and "body" params required to creates a new note<br>
